@@ -168,11 +168,11 @@ nav a {
     }
 
     .row h1 {
-        font-size: 26px;
+        font-size: 30px;
     }
 
-    .dwbtn {
-        font-size: 10px;
+    .dwbtn,#cta button {
+        font-size: 15px;
     }
 
     #features i {
@@ -194,7 +194,7 @@ nav a {
     .bgg img {
         margin-top:10px;
 
-    width: 35%;
+    width: 50%;
 }
 #testimonials h2,#cta h3
 {
